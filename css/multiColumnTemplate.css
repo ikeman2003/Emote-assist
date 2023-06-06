@@ -593,3 +593,25 @@ a {
 	margin: auto;
 	padding-bottom: 2%;
 }
+
+.left_sub_article {
+	width: 50%;
+	font-family: "Source Sans Pro";
+	display: inline-flex;
+	flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.right_sub_article {
+    width: 50%;
+    float: right;
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+	padding-right: 3%;
+}
+
+iframe {
+	display: inline-flex;
+	flex-wrap: wrap;
+}
